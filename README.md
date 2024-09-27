@@ -1,5 +1,5 @@
 # Fooocus
-This is my first Git Repository 
+This is my first Git Repository - https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb 
 Collecting pygit2==1.15.1
   Downloading pygit2-1.15.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.3 kB)
 Requirement already satisfied: cffi>=1.16.0 in /usr/local/lib/python3.10/dist-packages (from pygit2==1.15.1) (1.17.1)
